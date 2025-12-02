@@ -1,0 +1,40 @@
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.deps.json
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.runtimeconfig.json
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.runtimeconfig.dev.json
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Core.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.csproj.AssemblyReference.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.AssemblyInfoInputs.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.AssemblyInfo.cs
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\Applicat.BB058C4D.Up2Date
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\refint\ApplicationFrontEnd.Infrastructure.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.genruntimeconfig.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ref\ApplicationFrontEnd.Infrastructure.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.deps.json
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.runtimeconfig.json
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.runtimeconfig.dev.json
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Infrastructure.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.Core.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.csproj.AssemblyReference.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.AssemblyInfoInputs.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.AssemblyInfo.cs
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\Applicat.BB058C4D.Up2Date
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\refint\ApplicationFrontEnd.Infrastructure.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ApplicationFrontEnd.Infrastructure.genruntimeconfig.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Infrastructure\obj\Debug\net5.0\ref\ApplicationFrontEnd.Infrastructure.dll

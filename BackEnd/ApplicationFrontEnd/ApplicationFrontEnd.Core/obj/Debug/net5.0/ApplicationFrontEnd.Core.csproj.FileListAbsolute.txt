@@ -1,0 +1,30 @@
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.Core.deps.json
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.Core.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.csproj.AssemblyReference.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.AssemblyInfoInputs.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.AssemblyInfo.cs
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.csproj.CoreCompileInputs.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\Applicat.38E17479.Up2Date
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\refint\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ref\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.Core.deps.json
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.Core.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.csproj.AssemblyReference.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.AssemblyInfoInputs.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.AssemblyInfo.cs
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.csproj.CoreCompileInputs.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\Applicat.38E17479.Up2Date
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\refint\ApplicationFrontEnd.Core.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ApplicationFrontEnd.Core.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.Core\obj\Debug\net5.0\ref\ApplicationFrontEnd.Core.dll

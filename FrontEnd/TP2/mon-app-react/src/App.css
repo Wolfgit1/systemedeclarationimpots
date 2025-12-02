@@ -1,0 +1,8 @@
+/* App.css - Styles globaux pour l'application */
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Styles spécifiques à l'application peuvent être ajoutés ici */

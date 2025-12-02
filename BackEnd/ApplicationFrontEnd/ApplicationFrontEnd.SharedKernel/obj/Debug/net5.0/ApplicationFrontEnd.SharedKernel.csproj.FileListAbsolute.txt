@@ -1,0 +1,30 @@
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.deps.json
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.runtimeconfig.json
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.runtimeconfig.dev.json
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.csproj.AssemblyReference.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.AssemblyInfoInputs.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.AssemblyInfo.cs
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\refint\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.pdb
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.genruntimeconfig.cache
+D:\Session Automne 2025\TP 3\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ref\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.deps.json
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.runtimeconfig.json
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.runtimeconfig.dev.json
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\bin\Debug\net5.0\ApplicationFrontEnd.SharedKernel.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.csproj.AssemblyReference.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.AssemblyInfoInputs.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.AssemblyInfo.cs
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\refint\ApplicationFrontEnd.SharedKernel.dll
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.pdb
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ApplicationFrontEnd.SharedKernel.genruntimeconfig.cache
+D:\Session Automne 2025\TP 3\Génie logiciel\Application\ApplicationFrontEnd\ApplicationFrontEnd.SharedKernel\obj\Debug\net5.0\ref\ApplicationFrontEnd.SharedKernel.dll

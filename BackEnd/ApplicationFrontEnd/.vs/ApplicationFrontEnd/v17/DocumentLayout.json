@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Session Automne 2025\\TP 3\\G\u00E9nie logiciel\\Application\\ApplicationFrontEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC58AB-8256-4500-B83A-C9A541715F04}|ApplicationFrontEnd.Core\\ApplicationFrontEnd.Core.csproj|d:\\session automne 2025\\tp 3\\g\u00E9nie logiciel\\application\\applicationfrontend\\applicationfrontend.core\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC58AB-8256-4500-B83A-C9A541715F04}|ApplicationFrontEnd.Core\\ApplicationFrontEnd.Core.csproj|solutionrelative:applicationfrontend.core\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC58AB-8256-4500-B83A-C9A541715F04}|ApplicationFrontEnd.Core\\ApplicationFrontEnd.Core.csproj|d:\\session automne 2025\\tp 3\\g\u00E9nie logiciel\\application\\applicationfrontend\\applicationfrontend.core\\services\\revenucanadaservicesimule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC58AB-8256-4500-B83A-C9A541715F04}|ApplicationFrontEnd.Core\\ApplicationFrontEnd.Core.csproj|solutionrelative:applicationfrontend.core\\services\\revenucanadaservicesimule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E78E994-676A-4992-8F9F-BB53F70E15AD}|ApplicationFrontEnd.WebAPI\\ApplicationFrontEnd.WebAPI.csproj|d:\\session automne 2025\\tp 3\\g\u00E9nie logiciel\\application\\applicationfrontend\\applicationfrontend.webapi\\controllers\\requestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E78E994-676A-4992-8F9F-BB53F70E15AD}|ApplicationFrontEnd.WebAPI\\ApplicationFrontEnd.WebAPI.csproj|solutionrelative:applicationfrontend.webapi\\controllers\\requestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevenuCanadaServiceSimule.cs",
+              "DocumentMoniker": "D:\\Session Automne 2025\\TP 3\\G\u00E9nie logiciel\\Application\\ApplicationFrontEnd\\ApplicationFrontEnd.Core\\Services\\RevenuCanadaServiceSimule.cs",
+              "RelativeDocumentMoniker": "ApplicationFrontEnd.Core\\Services\\RevenuCanadaServiceSimule.cs",
+              "ToolTip": "D:\\Session Automne 2025\\TP 3\\G\u00E9nie logiciel\\Application\\ApplicationFrontEnd\\ApplicationFrontEnd.Core\\Services\\RevenuCanadaServiceSimule.cs",
+              "RelativeToolTip": "ApplicationFrontEnd.Core\\Services\\RevenuCanadaServiceSimule.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:24:14.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "D:\\Session Automne 2025\\TP 3\\G\u00E9nie logiciel\\Application\\ApplicationFrontEnd\\ApplicationFrontEnd.Core\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "ApplicationFrontEnd.Core\\Services\\ValidationService.cs",
+              "ToolTip": "D:\\Session Automne 2025\\TP 3\\G\u00E9nie logiciel\\Application\\ApplicationFrontEnd\\ApplicationFrontEnd.Core\\Services\\ValidationService.cs",
+              "RelativeToolTip": "ApplicationFrontEnd.Core\\Services\\ValidationService.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAIwLEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:22:54.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestsController.cs",
+              "DocumentMoniker": "D:\\Session Automne 2025\\TP 3\\G\u00E9nie logiciel\\Application\\ApplicationFrontEnd\\ApplicationFrontEnd.WebAPI\\Controllers\\RequestsController.cs",
+              "RelativeDocumentMoniker": "ApplicationFrontEnd.WebAPI\\Controllers\\RequestsController.cs",
+              "ToolTip": "D:\\Session Automne 2025\\TP 3\\G\u00E9nie logiciel\\Application\\ApplicationFrontEnd\\ApplicationFrontEnd.WebAPI\\Controllers\\RequestsController.cs",
+              "RelativeToolTip": "ApplicationFrontEnd.WebAPI\\Controllers\\RequestsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:59:46.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
